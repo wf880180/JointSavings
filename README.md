@@ -9,5 +9,8 @@ the team is building smart contracts to automate many of the institutions’ fin
 ![alt text](https://github.com/wf880180/JointSavings/blob/main/Execution_Results/1ETH_wei.png)
 
 	-Transaction 2: Send 10 ether as wei.
+![alt text](https://github.com/wf880180/JointSavings/blob/main/Execution_Results/10ETH_wei.png)
 
 	-Transaction 3: Send 5 ether.
+![alt text](https://github.com/wf880180/JointSavings/blob/main/Execution_Results/5ETH.png)
+
